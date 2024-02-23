@@ -1,6 +1,6 @@
 [submodule "cimgui"]
-	path = cimgui
+	path = external/cimgui
 	url = https://github.com/cimgui/cimgui
 [submodule "sokol"]
-	path = sokol
+	path = external/sokol
 	url = https://github.com/floooh/sokol
